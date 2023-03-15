@@ -1,0 +1,7 @@
+#FFA07A orange background
+
+#008081 dark mint green
+
+#80513F brown
+
+#F8FB16 yellow
